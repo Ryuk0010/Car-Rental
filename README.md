@@ -1,7 +1,7 @@
 
 <h3>Build with:</h3>
 
-» Sass / Scss <br>
+» Sass <br>
 » React JS
 
 ## Installation
