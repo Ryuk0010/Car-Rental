@@ -40,12 +40,11 @@ Before you begin, ensure that you have the following installed on your machine:
 
 To run the React project locally, follow these steps:
 
-  Start the development server:
+ 1. Start the development server:
 
     ``` 
      npm start 
     ``` 
-    This command will compile the project and start a local development server.
     
 
     
