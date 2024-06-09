@@ -33,7 +33,8 @@ Before you begin, ensure that you have the following installed on your machine:
     
     ``` 
      npm install
-    ```  
+    ```
+    This will start the server
     
 
 ## Usage
